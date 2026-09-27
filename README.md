@@ -56,10 +56,10 @@ Cada pasta representa um dia de estudo:
 ├── README.md
 ├── dia-001/
 │   ├── dia01.md
-│   └── README.md
+│   └── dia01.md
 ├── dia-002/
 │   ├── dia02.md
-│   └── README.md
+│   └── dia02.md
 └── projetos/
 ```
 
@@ -73,7 +73,7 @@ Cada pasta representa um dia de estudo:
 | Dia | Desafio | Conteúdo | Status |
 |---:|---|---|:---:|
 | 1 | [Analisador de sessão de estudos](./dia-001/) | Variáveis, entrada de dados, tipos, cálculos e f-strings | ✅ |
-| 2 | A definir | Condições | ⬜ |
+| 2 | [Calculo de desconto](./dia-002/) | Condições, comparações e cálculos percentuais | ✅ |
 | 3 | A definir | Operadores relacionais e lógicos | ⬜ |
 | 4 | A definir | Estruturas condicionais | ⬜ |
 | 5 | A definir | Revisão prática | ⬜ |
