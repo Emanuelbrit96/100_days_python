@@ -1,0 +1,20 @@
+print("Digite seu nome:")
+nome = input()
+print("Digite o assunto estudado:")
+assunto = input()
+print("Digite o tempo estudado:")
+t_estudo = int(input())
+print("Quantidade de questões:")
+quant_questoes = int(input())
+print("Digite a quantidade de acertos:")
+acertos = int(input())
+
+porc_acerto = (acertos / quant_questoes) * 100
+
+print("===== RESUMO DA SESSÃO =====")
+print(f"Estudante: {nome}")
+print(f"Assunto: {assunto}")
+print(f"Tempo estudado: {t_estudo} minutos")
+print(f"Questões respondidas: {quant_questoes}")
+print(f"Acertos: {acertos}")
+print(f"Aproveitamento: {porc_acerto:.2f}%")
