@@ -1,58 +1,131 @@
-
 # 100 Dias de Python
 
-Este repositório registra meu desafio de estudar e praticar Python durante 100 dias, com foco progressivo em Ciência de Dados.
+Este repositório registra meu desafio de estudar e praticar Python durante 100 dias.
 
-O objetivo é fortalecer minha base em programação por meio de desafios práticos, começando pelos fundamentos da linguagem e avançando para manipulação, análise e visualização de dados, estatística e introdução ao Machine Learning.
+O objetivo é fortalecer minha base em programação por meio de desafios práticos e progressivos, começando pelos fundamentos da linguagem e avançando para automação, manipulação de arquivos, APIs, bancos de dados, análise de dados, visualização, estatística e Machine Learning.
+
+Embora minha direção profissional seja a Ciência de Dados, os desafios serão aplicados a diferentes cenários. Alguns deles também poderão envolver dados geoespaciais. A prioridade é desenvolver minha capacidade de programar, resolver problemas e compreender cada solução construída.
+
+## Objetivos
+
+- Desenvolver uma base sólida em Python;
+- Aprender a resolver problemas por meio da programação;
+- Praticar lógica de programação;
+- Trabalhar com dados usando NumPy e pandas;
+- Criar visualizações e análises exploratórias;
+- Aprender fundamentos de estatística;
+- Conhecer modelos básicos de Machine Learning;
+- Construir pequenos projetos para o portfólio;
+- Registrar publicamente minha evolução.
 
 ## Metodologia
 
-Em cada dia, será proposto um desafio relacionado ao conteúdo estudado. Primeiro, tentarei desenvolver a solução de forma independente, utilizando pesquisas e documentação como apoio. Depois, revisarei o código e registrarei os principais aprendizados.
+Cada dia do desafio terá:
 
-Cada etapa poderá conter:
+1. um assunto principal;
+2. um problema prático;
+3. uma tentativa de solução independente;
+4. pesquisa em documentação e materiais de apoio;
+5. revisão e melhoria do código;
+6. registro dos aprendizados.
 
-- descrição do desafio;
-- código desenvolvido;
-- explicação da solução;
-- dificuldades encontradas;
-- aprendizados do dia.
+A solução será construída gradualmente. O objetivo é entender e conseguir explicar o código desenvolvido.
 
 ## Roteiro de estudos
 
-- Dias 1–15: fundamentos de Python;
-- Dias 16–30: estruturas condicionais, repetições e coleções;
-- Dias 31–40: funções, módulos, tratamento de erros e arquivos;
-- Dias 41–55: NumPy;
-- Dias 56–70: pandas e tratamento de dados;
-- Dias 71–80: visualização de dados;
-- Dias 81–90: estatística e análise exploratória;
-- Dias 91–100: fundamentos de Machine Learning e projeto final.
+| Período | Conteúdo |
+|---|---|
+| Dias 1–15 | Fundamentos de Python |
+| Dias 16–30 | Condições, repetições, strings e coleções |
+| Dias 31–40 | Funções, módulos, erros e orientação a objetos |
+| Dias 41–50 | Arquivos, automações, APIs e SQL |
+| Dias 51–60 | NumPy e operações numéricas |
+| Dias 61–75 | pandas, limpeza e transformação de dados |
+| Dias 76–85 | Visualização, análise exploratória e aplicações diversas |
+| Dias 86–90 | Estatística básica |
+| Dias 91–97 | Fundamentos de Machine Learning |
+| Dias 98–100 | Projeto final |
+O roteiro poderá receber pequenos ajustes conforme minha evolução durante o desafio.
 
 ## Estrutura do repositório
 
-Cada pasta representa um dia do desafio:
+Cada pasta representa um dia de estudo:
 
 ```text
 100_days_python/
 ├── README.md
 ├── dia-001/
 │   ├── dia01.md
-│   ├── analisador_estudos.py
 │   └── README.md
 ├── dia-002/
-└── ...
+│   ├── dia02.md
+│   └── README.md
+└── projetos/
 ```
+
+### Arquivos de cada dia
+
+- `diaXX.md`: descrição e regras do desafio;
+- `diaXX.py`: código desenvolvido;
 
 ## Progresso
 
-- [ ] Dia 1 — Analisador de sessão de estudos
-- [ ] Dia 2
-- [ ] Dia 3
-- [ ] Dia 4
-- [ ] Dia 5
+| Dia | Desafio | Conteúdo | Status |
+|---:|---|---|:---:|
+| 1 | [Analisador de sessão de estudos](./dia-001/) | Variáveis, entrada de dados, tipos, cálculos e f-strings | ✅ |
+| 2 | A definir | Condições | ⬜ |
+| 3 | A definir | Operadores relacionais e lógicos | ⬜ |
+| 4 | A definir | Estruturas condicionais | ⬜ |
+| 5 | A definir | Revisão prática | ⬜ |
 
-A lista será atualizada conforme os desafios forem concluídos.
+A tabela será atualizada conforme os desafios forem concluídos.
 
-## Objetivo profissional
+## Projetos de revisão
 
-Este desafio faz parte da minha preparação para atuar na área de Ciência de Dados, desenvolvendo domínio prático de Python e construindo um histórico público da minha evolução.
+Ao longo da trilha, alguns dias serão reservados para projetos que reúnam os assuntos anteriores.
+
+Exemplos:
+
+- analisador de sessões de estudo;
+- controle simples de despesas;
+- analisador de notas;
+- processamento de arquivos CSV;
+- limpeza e exploração de dados;
+- criação de gráficos;
+- análise de um conjunto de dados real;
+- modelo básico de classificação ou regressão;
+- projeto final voltado para Ciência de Dados.
+
+## Tecnologias e ferramentas
+
+Durante o desafio, pretendo utilizar:
+
+- Python;
+- Visual Studio Code;
+- Jupyter Notebook;
+- Git e GitHub;
+- NumPy;
+- pandas;
+- Matplotlib;
+- Seaborn;
+- Scikit-learn;
+- SQL;
+
+As bibliotecas serão introduzidas gradualmente.
+
+## Referências
+
+A organização da trilha foi inspirada por projetos e plataformas de aprendizagem, incluindo:
+
+- [Python 100 Days — Jackfrued](https://github.com/jackfrued/Python-100-Days);
+- [Exercism — Python](https://exercism.org/tracks/python);
+- [Kaggle Learn](https://www.kaggle.com/learn);
+- [Documentação oficial do Python](https://docs.python.org/pt-br/3/tutorial/).
+
+Os desafios e códigos deste repositório serão desenvolvidos e adaptados para o meu objetivo de aprendizado em Ciência de Dados.
+
+## Sobre mim
+
+Sou estudante de Ciência da Computação e estou direcionando meus estudos para Ciência de Dados, com interesse em Python, SQL, análise de dados, Machine Learning.
+
+Este repositório representa meu processo de aprendizagem, minha evolução técnica e a construção gradual do meu portfólio.
