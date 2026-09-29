@@ -74,7 +74,7 @@ Cada pasta representa um dia de estudo:
 |---:|---|---|:---:|
 | 1 | [Analisador de sessão de estudos](./dia-001/) | Variáveis, entrada de dados, tipos, cálculos e f-strings | ✅ |
 | 2 | [Calculo de desconto](./dia-002/) | Condições, comparações e cálculos percentuais | ✅ |
-| 3 | A definir | Operadores relacionais e lógicos | ⬜ |
+| 3 | [Controle de acesso a evento](./dia-003/) | Condicionais aninhadas, operadores lógicos, validação de respostas e métodos de strings | ✅ |
 | 4 | A definir | Estruturas condicionais | ⬜ |
 | 5 | A definir | Revisão prática | ⬜ |
 
