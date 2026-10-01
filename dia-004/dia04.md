@@ -151,8 +151,7 @@ Em versões futuras, o programa poderá:
 ```text
 dia-004/
 ├── dia04.md
-├── dia04.py
-└── README.md
+└── dia04.py
 ```
 
 - `dia04.md`: descrição e regras do desafio;
